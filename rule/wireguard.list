@@ -1,2 +1,2 @@
-IP-CIDR6,fd42:42:42::/48
-IP-CIDR,10.13.13.0/24
+IP-CIDR6,fd42:42:42::/48,no-resolve
+IP-CIDR,10.13.13.0/24,no-resolve
